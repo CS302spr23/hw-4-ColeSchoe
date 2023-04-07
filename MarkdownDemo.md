@@ -28,3 +28,7 @@ Calling out a color: `rgb(R,G,B)`
 <!-- Hahaha hidden words -->
 
 [^1]: [My cat picture reference](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&psig=AOvVaw0mo3Xa2FiXnsxPX3qhfe-Q&ust=1680914827224000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDW1-vFlv4CFQAAAAAdAAAAABAE)
+
+[My profile README](https://github.com/ColeSchoe/ColeSchoe/blob/main/README.md)
+
+[My repo with the ThingsIDontUnderstand.md file](https://github.com/ColeSchoe/CS302HW4)
